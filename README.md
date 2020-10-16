@@ -5,7 +5,7 @@ I'm Software Engineer currently work in Jakarta, Indonesia. I write code to solv
 ## 📬 Let's get in touch
 
 - Twitter: [twitter.com/fajrulaulia][3]
-- Web: [codetify.me][1]
+- Web: [codetify.me][1] [Note: My aws has suspend]
 - LinkedIn: [linkedin.com/in/fajrulaulia][2]
 
 [1]: https://jcodetify.me
