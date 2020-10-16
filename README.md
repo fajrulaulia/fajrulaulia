@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋🏻
 
-<!--
-**fajrulaulia/fajrulaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Software Engineer currently work in Jakarta, Indonesia. I write code to solve problem and I write code test before build, adapt to the new environment and culture by studying and discussing.
 
-Here are some ideas to get you started:
+## 📬 Let's get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Twitter: [twitter.com/fajrulaulia][3]
+- Web: [codetify.me][1]
+- LinkedIn: [linkedin.com/in/fajrulaulia][2]
+
+[1]: https://jcodetify.me
+[2]: https://linkedin.com/in/fajrulaulia
+[3]: twitter.com/fajrulaulia
