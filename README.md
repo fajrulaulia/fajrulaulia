@@ -7,7 +7,7 @@ intensively, I wrote golang, javascript and dart, and sometimes I wrote unit tes
 
 ## 📬 Let's get in touch
 - Twitter: [https://twitter.com/ngapain_liat][1]
-- LinkedIn: [linkedin.com/in/fajrulaulia][2]
+- LinkedIn: [https://linkedin.com/in/fajrulaulia][2]
 
 [1]: https://twitter.com/ngapain_liat
-[2]: linkedin.com/in/fajrulaulia
+[2]: https://linkedin.com/in/fajrulaulia
