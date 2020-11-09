@@ -6,8 +6,10 @@ I'm Software Engineer currently work in Jakarta, Indonesia. I write code to solv
 intensively, I wrote golang, javascript and dart, and sometimes I wrote unit testing and build Integration Testing.
 
 ## 📬 Let's get in touch
-- Twitter: [https://twitter.com/ngapain_liat][1]
-- LinkedIn: [https://linkedin.com/in/fajrulaulia][2]
+- Website:[https://codetify.me/about][1]
+- Twitter: [https://twitter.com/ngapain_liat][2]
+- LinkedIn: [https://linkedin.com/in/fajrulaulia][3]
 
-[1]: https://twitter.com/ngapain_liat
-[2]: https://linkedin.com/in/fajrulaulia
+[1]: https://codetify.me/about
+[2]: https://twitter.com/ngapain_liat
+[3]: https://linkedin.com/in/fajrulaulia
