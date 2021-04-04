@@ -11,5 +11,5 @@ intensively, I wrote golang, javascript and dart, and sometimes I wrote unit tes
 - LinkedIn: [https://linkedin.com/in/fajrulaulia][3]
 
 [1]: https://codetify.me/about
-[2]: https://twitter.com/fajrulaulia
+[2]: https://twitter.com/fajrulaulia_
 [3]: https://linkedin.com/in/fajrulaulia
