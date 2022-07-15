@@ -11,3 +11,7 @@ intensively, I wrote golang, javascript and dart, and sometimes I wrote unit tes
 
 [1]: https://t.me/fajrulaulia
 [2]: https://linkedin.com/in/fajrulaulia
+
+
+## My Github Statistic
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrulaulia&theme=dark)
