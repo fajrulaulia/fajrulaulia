@@ -5,12 +5,6 @@ I'm Software Engineer currently work in Jakarta, Indonesia. I write code to solv
 ## What I write ??
 intensively, I wrote golang, javascript and dart, and sometimes I wrote unit testing and build Integration Testing to make scenario.
 
-## 📬 Let's get in touch
-- Telegram: [https://t.me/fajrulaulia][1]
-- LinkedIn: [https://linkedin.com/in/fajrulaulia][2]
-
-[1]: https://t.me/fajrulaulia
-[2]: https://linkedin.com/in/fajrulaulia
 
 
 ## Stackoverflow badge - Fajrul Aulia
@@ -18,5 +12,12 @@ intensively, I wrote golang, javascript and dart, and sometimes I wrote unit tes
 
 
 ## My Stats
-![Fajrul's Stats](https://github-readme-stats.vercel.app/api?username=fajrulaulia&show_icons=true)
 ![Fajrul's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrulaulia&theme=blue-green&hide=php,html&count=10)
+![Fajrul's Stats](https://github-readme-stats.vercel.app/api?username=fajrulaulia&show_icons=true&theme=blue-green)
+
+## 📬 Let's get in touch
+- Telegram: [https://t.me/fajrulaulia][1]
+- LinkedIn: [https://linkedin.com/in/fajrulaulia][2]
+
+[1]: https://t.me/fajrulaulia
+[2]: https://linkedin.com/in/fajrulaulia
