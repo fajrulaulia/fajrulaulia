@@ -15,3 +15,8 @@ intensively, I wrote golang, javascript and dart, and sometimes I wrote unit tes
 
 ## Stackoverflow badge - Fajrul Aulia
 [![Fajrul Aulia StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6769364&theme=dark)](https://stackoverflow.com/users/6769364/fajrul-a)
+
+
+## My Stats
+![Fajrul's Stats](https://github-readme-stats.vercel.app/api?username=fajrulaulia&show_icons=true)
+![Fajrul's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrulaulia&theme=blue-green&hide=php,html&count=10)
