@@ -14,6 +14,9 @@ intensively, I wrote golang, Typescript/javascript and dart, and sometimes I wro
 ## My Stats
 ![Fajrul's Stats](https://github-readme-stats.vercel.app/api?username=fajrulaulia&show_icons=true&theme=blue-green)
 
+## Most Programming Language in this Github
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrulaulia&hide_progress=false&&layout=pie)
+
 ## 📬 Let's get in touch
 - Telegram: [https://t.me/fajrulaulia][1]
 - LinkedIn: [https://linkedin.com/in/fajrulaulia][2]
