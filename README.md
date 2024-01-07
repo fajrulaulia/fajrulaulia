@@ -20,6 +20,8 @@ intensively, I wrote golang, Typescript/javascript and dart, and sometimes I wro
 ## 📬 Let's get in touch
 - Telegram: [https://t.me/fajrulaulia][1]
 - LinkedIn: [https://linkedin.com/in/fajrulaulia][2]
+- Website: [https://fajrulaulia.github.com][3]
 
 [1]: https://t.me/fajrulaulia
 [2]: https://linkedin.com/in/fajrulaulia
+[3]: https://fajrulaulia.github.com
